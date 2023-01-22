@@ -5,6 +5,7 @@
 // -3 -> нет
 // 7 -> нет
 
+
 System.Console.Write("Введите числo > ");
 int a = Convert.ToInt32(Console.ReadLine());
 
